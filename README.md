@@ -1,6 +1,6 @@
 # AI Code Assistant
 
-The **AI Code Assistant** is a Python-based project designed to assist developers by automating tasks such as listing files, reading file contents, writing to files, and executing Python scripts. It leverages the power of AI to interpret user prompts and execute corresponding actions.
+The **AI Code Assistant** is a Python-based project designed to assist developers by automating simple tasks. It leverages the power of AI to interpret user prompts and execute corresponding actions. It can edit create and edit files in the project you provide it with.
 
 ## Security !!!
 
@@ -9,9 +9,10 @@ It's important to note that the program **can run code** in the working director
 ## Features
 
 - **File Operations**: 
+  - Write content to files.
+  - Create new files.
   - List files and directories.
   - Read the content of files.
-  - Write content to files.
 - **Code Execution**:
   - Run Python scripts dynamically.
 - **AI-Powered Assistance**:
