@@ -74,4 +74,4 @@ It's important to note that the program **can run code** in the working director
 
 - Python 3.8 or higher
 - Gemini AI API key
-- UV
+- UV (recommeneded, but you can use alternatives)
